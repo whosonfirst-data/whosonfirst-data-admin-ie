@@ -46,7 +46,7 @@
         "wk:page":"Killeenduff"
     },
     "wof:country":"IE",
-    "wof:geomhash":"98d1c54913e3ecc48240cf6426182a20",
+    "wof:geomhash":"3115a1c958057ae7fddb2105c6967731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -8.93056,
     54.28028000000001
 ],
-  "geometry": {"coordinates":[-8.93056,54.28028000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.93056,54.28028],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Bouladuff"
     },
     "wof:country":"IE",
-    "wof:geomhash":"287496e4b3c03257335e90f99e4b74ae",
+    "wof:geomhash":"749c30293dc1491434e6683c98f58ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -7.90667,
     52.71666999999999
 ],
-  "geometry": {"coordinates":[-7.90667,52.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.90667,52.71667],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Coolderry"
     },
     "wof:country":"IE",
-    "wof:geomhash":"b78cc30481fb3f02b0184fd69db87743",
+    "wof:geomhash":"3805a6bdbb0b194cdfd93234721f7fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -7.83917,
     53.00833000000001
 ],
-  "geometry": {"coordinates":[-7.83917,53.00833000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.83917,53.00833],"type":"Point"}
 }

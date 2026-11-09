@@ -52,7 +52,7 @@
         "wk:page":"Lisselton"
     },
     "wof:country":"IE",
-    "wof:geomhash":"3716dd5612e8d8b21627a8e3bc413437",
+    "wof:geomhash":"9085f7c15059b0af6c6b36218bfd0c75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -9.57583,
     52.49583000000001
 ],
-  "geometry": {"coordinates":[-9.57583,52.49583000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.57583,52.49583],"type":"Point"}
 }

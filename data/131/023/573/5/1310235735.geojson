@@ -52,7 +52,7 @@
         "wk:page":"Woodenbridge"
     },
     "wof:country":"IE",
-    "wof:geomhash":"ff6f1c8ec872767f25f5bc13e9761ea1",
+    "wof:geomhash":"538950c12a34daa2045332e51ef269a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -6.23639,
     52.83221999999999
 ],
-  "geometry": {"coordinates":[-6.23639,52.83221999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.23639,52.83222],"type":"Point"}
 }

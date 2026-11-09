@@ -43,7 +43,7 @@
         "wk:page":"Coolrain"
     },
     "wof:country":"IE",
-    "wof:geomhash":"3b1df47194d0103338c0a8bd6a5bb075",
+    "wof:geomhash":"186697a48b728db260b842b6765f50ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     -7.56861,
     52.97971999999999
 ],
-  "geometry": {"coordinates":[-7.56861,52.97971999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.56861,52.97972],"type":"Point"}
 }

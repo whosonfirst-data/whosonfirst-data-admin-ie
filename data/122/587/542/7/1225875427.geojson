@@ -64,7 +64,7 @@
         "wk:page":"Kilmovee"
     },
     "wof:country":"IE",
-    "wof:geomhash":"93e3e7aa7feedbb3b756547ccc42cc93",
+    "wof:geomhash":"cb00da8a0f432965ccc52fe484df27b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     -8.68333,
     53.88333000000001
 ],
-  "geometry": {"coordinates":[-8.68333,53.88333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.68333,53.88333],"type":"Point"}
 }

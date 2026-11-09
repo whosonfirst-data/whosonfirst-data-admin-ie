@@ -49,7 +49,7 @@
         "wk:page":"Donohill"
     },
     "wof:country":"IE",
-    "wof:geomhash":"20468bbd9e4662d296ea167c13a9114c",
+    "wof:geomhash":"ec67fae76fd4e2646d170be2178986a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -8.14667,
     52.54083000000001
 ],
-  "geometry": {"coordinates":[-8.14667,52.54083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.14667,52.54083],"type":"Point"}
 }

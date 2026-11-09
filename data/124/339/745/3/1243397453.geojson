@@ -52,7 +52,7 @@
         "wk:page":"Ballickmoyler"
     },
     "wof:country":"IE",
-    "wof:geomhash":"a1c231db9c3aea3dcbf7055034d46c65",
+    "wof:geomhash":"77d2ebde7894e86044ee01294ffd899a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -7.01083,
     52.87694000000001
 ],
-  "geometry": {"coordinates":[-7.01083,52.87694000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.01083,52.87694],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Caltra"
     },
     "wof:country":"IE",
-    "wof:geomhash":"337990aaa078a122e30c105ddfbd9181",
+    "wof:geomhash":"25892428ee61c39abbbb2487bca00a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -8.43333,
     53.43333000000001
 ],
-  "geometry": {"coordinates":[-8.43333,53.43333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.43333,53.43333],"type":"Point"}
 }

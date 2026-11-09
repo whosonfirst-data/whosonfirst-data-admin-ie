@@ -67,7 +67,7 @@
         "wk:page":"Achonry"
     },
     "wof:country":"IE",
-    "wof:geomhash":"b591970660f4bf32e92dc424da4078bf",
+    "wof:geomhash":"e456ac46dde9925cec48aa56155dea78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     -8.66694,
     54.08278000000001
 ],
-  "geometry": {"coordinates":[-8.66694,54.08278000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.66694,54.08278],"type":"Point"}
 }

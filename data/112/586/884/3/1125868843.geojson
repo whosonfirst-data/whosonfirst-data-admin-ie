@@ -53,7 +53,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497294183,
-    "wof:geomhash":"91dd1729186ce412b40e685938100d6b",
+    "wof:geomhash":"d526c9f1a801690b9a5510f89e5bc5c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -9.8690265,
     51.8131245
 ],
-  "geometry": {"coordinates":[-9.8690265,51.8131245],"type":"Point"}
+  "geometry": {"coordinates":[-9.869026,51.813125],"type":"Point"}
 }

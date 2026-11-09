@@ -55,7 +55,7 @@
         "wk:page":"Binghamstown"
     },
     "wof:country":"IE",
-    "wof:geomhash":"598f8882d02fc2d71d18508e11b42529",
+    "wof:geomhash":"3eb3429ac736bb509fdbe23c4fd25427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     -10.03648,
     54.20399999999999
 ],
-  "geometry": {"coordinates":[-10.03648,54.20399999999999],"type":"Point"}
+  "geometry": {"coordinates":[-10.03648,54.204],"type":"Point"}
 }

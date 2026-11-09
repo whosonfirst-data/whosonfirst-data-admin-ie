@@ -43,7 +43,7 @@
         "wk:page":"Roundfort"
     },
     "wof:country":"IE",
-    "wof:geomhash":"25318b2e91ad4fdb3c397aa54320e484",
+    "wof:geomhash":"a468d8068abb3ee50fc854412bbfcb08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     -9.1,
     53.63333000000001
 ],
-  "geometry": {"coordinates":[-9.1,53.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.1,53.63333],"type":"Point"}
 }

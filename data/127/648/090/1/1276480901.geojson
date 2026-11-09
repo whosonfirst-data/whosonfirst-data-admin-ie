@@ -59,7 +59,7 @@
         "wk:page":"Downings"
     },
     "wof:country":"IE",
-    "wof:geomhash":"8b014e192073d8e071437b9b15e242e1",
+    "wof:geomhash":"aa044902ba0f57b6e49bcd0746b230d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     -7.85222,
     55.19694000000001
 ],
-  "geometry": {"coordinates":[-7.85222,55.19694000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.85222,55.19694],"type":"Point"}
 }

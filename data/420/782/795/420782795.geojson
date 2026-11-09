@@ -34,7 +34,7 @@
     "wof:concordances":{},
     "wof:country":"IE",
     "wof:created":1458871855,
-    "wof:geomhash":"7bb195f8e84f8dbbf499fa9acf5bf6d7",
+    "wof:geomhash":"d047b36e472433b76dbbe2fe954e7712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,5 +61,5 @@
     -6.24902105688957,
     53.34993458574023
 ],
-  "geometry": {"coordinates":[-6.24902105688957,53.34993458574023],"type":"Point"}
+  "geometry": {"coordinates":[-6.249021,53.349935],"type":"Point"}
 }

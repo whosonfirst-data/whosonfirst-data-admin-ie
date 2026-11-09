@@ -64,7 +64,7 @@
         "wk:page":"Carrigaholt"
     },
     "wof:country":"IE",
-    "wof:geomhash":"f0800988278392c53c06cfecebba97e9",
+    "wof:geomhash":"2859346d6a9a53b00ed27f3c2daf73de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     -9.70806,
     52.60333000000001
 ],
-  "geometry": {"coordinates":[-9.70806,52.60333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.70806,52.60333],"type":"Point"}
 }

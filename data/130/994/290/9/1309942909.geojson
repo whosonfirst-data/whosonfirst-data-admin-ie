@@ -43,7 +43,7 @@
         "wk:page":"Lisnalee"
     },
     "wof:country":"IE",
-    "wof:geomhash":"9488c9b33e4261d1a50cb96de822292f",
+    "wof:geomhash":"2a0fb78ef229af95560ad6c89ace45ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     -7.23333,
     54.12083000000001
 ],
-  "geometry": {"coordinates":[-7.23333,54.12083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.23333,54.12083],"type":"Point"}
 }

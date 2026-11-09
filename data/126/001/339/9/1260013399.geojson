@@ -71,7 +71,7 @@
         "wk:page":"Tynagh"
     },
     "wof:country":"IE",
-    "wof:geomhash":"a1ce80a5877e9e8706d771dd25edfb11",
+    "wof:geomhash":"346b7ae7158270d6f7b89348b6de9e25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     -8.3725,
     53.14944000000001
 ],
-  "geometry": {"coordinates":[-8.3725,53.14944000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.3725,53.14944],"type":"Point"}
 }

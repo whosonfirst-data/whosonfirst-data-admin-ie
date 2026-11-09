@@ -49,7 +49,7 @@
         "wk:page":"Shanahoe"
     },
     "wof:country":"IE",
-    "wof:geomhash":"e25cb660582bd27a0b3ef816ea241e9f",
+    "wof:geomhash":"7ef0f30b970ebf4a51ecb40046d88c95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -7.42472,
     52.92528000000001
 ],
-  "geometry": {"coordinates":[-7.42472,52.92528000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.42472,52.92528],"type":"Point"}
 }

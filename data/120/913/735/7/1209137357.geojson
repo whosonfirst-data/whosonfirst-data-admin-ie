@@ -49,7 +49,7 @@
         "wk:page":"Drumcarban"
     },
     "wof:country":"IE",
-    "wof:geomhash":"4113776e44447a2bf9c8ea950b2f7a7b",
+    "wof:geomhash":"cf9de0528a0a8968e8d4423d0ec8f430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -7.43333,
     53.93333000000001
 ],
-  "geometry": {"coordinates":[-7.43333,53.93333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.43333,53.93333],"type":"Point"}
 }

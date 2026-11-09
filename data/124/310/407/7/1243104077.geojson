@@ -55,7 +55,7 @@
         "wk:page":"Kilcummin"
     },
     "wof:country":"IE",
-    "wof:geomhash":"87054d72e722886d58229f977ceff322",
+    "wof:geomhash":"045bfcb89d66cc58cf2f6fbf677156f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     -9.21694,
     54.27778000000001
 ],
-  "geometry": {"coordinates":[-9.21694,54.27778000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.21694,54.27778],"type":"Point"}
 }

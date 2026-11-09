@@ -62,7 +62,7 @@
         "wk:page":"Kincasslagh"
     },
     "wof:country":"IE",
-    "wof:geomhash":"f53a81ee778661edd1fd4649fa7ce385",
+    "wof:geomhash":"44ab7bae8f09c3cbde28f207c169a8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     -8.39098,
     55.02526999999999
 ],
-  "geometry": {"coordinates":[-8.39098,55.02526999999999],"type":"Point"}
+  "geometry": {"coordinates":[-8.39098,55.02527],"type":"Point"}
 }

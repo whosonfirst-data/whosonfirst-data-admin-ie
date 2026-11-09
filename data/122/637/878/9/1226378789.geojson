@@ -53,7 +53,7 @@
         "wk:page":"Craanford"
     },
     "wof:country":"IE",
-    "wof:geomhash":"ec1e0ebdd87f8b416bb652c481caf9e9",
+    "wof:geomhash":"67d8f60c23bb9342c38649a0caaa17f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,5 +79,5 @@
     -6.39167,
     52.67916999999999
 ],
-  "geometry": {"coordinates":[-6.39167,52.67916999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.39167,52.67917],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Lavagh"
     },
     "wof:country":"IE",
-    "wof:geomhash":"14e76f71047bca2a0d1f6bf50c19ebb7",
+    "wof:geomhash":"7664090281beb6150d99786ad2f92dfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     -8.68417,
     54.10639000000001
 ],
-  "geometry": {"coordinates":[-8.68417,54.10639000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.68417,54.10639],"type":"Point"}
 }

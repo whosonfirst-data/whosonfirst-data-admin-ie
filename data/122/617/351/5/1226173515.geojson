@@ -43,7 +43,7 @@
         "wk:page":"Brickeens"
     },
     "wof:country":"IE",
-    "wof:geomhash":"3040fce290f010f8ce54daa98d298a1a",
+    "wof:geomhash":"45c1f1d91afa1a9313f484f026b65e65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     -8.88333,
     53.71666999999999
 ],
-  "geometry": {"coordinates":[-8.88333,53.71666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-8.88333,53.71667],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Faughalstown"
     },
     "wof:country":"IE",
-    "wof:geomhash":"81864660d8560cae15dd6aaabbe6ecea",
+    "wof:geomhash":"14f73f41069fbbab62e279f2fce7ac42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -7.33333,
     53.63333000000001
 ],
-  "geometry": {"coordinates":[-7.33333,53.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.33333,53.63333],"type":"Point"}
 }

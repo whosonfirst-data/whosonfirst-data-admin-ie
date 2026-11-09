@@ -49,7 +49,7 @@
         "wk:page":"Ballymagauran"
     },
     "wof:country":"IE",
-    "wof:geomhash":"08aae216f1feba4fe76548a86412a9c1",
+    "wof:geomhash":"94862f2f9eb2b2a083e91567a33f35c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -7.67972,
     54.07083000000001
 ],
-  "geometry": {"coordinates":[-7.67972,54.07083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.67972,54.07083],"type":"Point"}
 }

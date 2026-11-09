@@ -80,7 +80,7 @@
         "wk:page":"Rosmuc"
     },
     "wof:country":"IE",
-    "wof:geomhash":"5890c08253aa3a07a0633e6e7dccf9f2",
+    "wof:geomhash":"b207973ad87ce40d5b7935dd9446a476",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     -9.61583,
     53.35028000000001
 ],
-  "geometry": {"coordinates":[-9.61583,53.35028000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.61583,53.35028],"type":"Point"}
 }

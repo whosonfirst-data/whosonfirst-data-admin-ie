@@ -64,7 +64,7 @@
         "wk:page":"Skreen"
     },
     "wof:country":"IE",
-    "wof:geomhash":"0f6b22dbd96e31cc90c4deb974de663e",
+    "wof:geomhash":"a78356a56047ee81470354e60446a416",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     -8.73111,
     54.24333000000001
 ],
-  "geometry": {"coordinates":[-8.73111,54.24333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.73111,54.24333],"type":"Point"}
 }

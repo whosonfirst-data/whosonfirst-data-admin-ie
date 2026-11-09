@@ -46,7 +46,7 @@
         "wk:page":"Damastown"
     },
     "wof:country":"IE",
-    "wof:geomhash":"298581b884b44df00b59d2a05b665933",
+    "wof:geomhash":"1c1d95818d62ae3e8a4d23b9981f335a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -6.30472,
     53.55583000000001
 ],
-  "geometry": {"coordinates":[-6.30472,53.55583000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.30472,53.55583],"type":"Point"}
 }

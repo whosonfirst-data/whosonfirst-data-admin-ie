@@ -55,7 +55,7 @@
         "wk:page":"Newtowncashel"
     },
     "wof:country":"IE",
-    "wof:geomhash":"c8f7ecc774a3a176313ec20514a65a19",
+    "wof:geomhash":"85373ebcd6b5c92e5e08f89cad49a222",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     -7.93771,
     53.58649000000001
 ],
-  "geometry": {"coordinates":[-7.93771,53.58649000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.93771,53.58649],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Finuge"
     },
     "wof:country":"IE",
-    "wof:geomhash":"a42a4ef58347cfdb67a18243dc699e0a",
+    "wof:geomhash":"6b6c0698f0ca45dcd12ebe69da4d2030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     -9.54111,
     52.42916999999999
 ],
-  "geometry": {"coordinates":[-9.54111,52.42916999999999],"type":"Point"}
+  "geometry": {"coordinates":[-9.54111,52.42917],"type":"Point"}
 }

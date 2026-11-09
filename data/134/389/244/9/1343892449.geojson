@@ -49,7 +49,7 @@
         "wk:page":"Leabgarrow"
     },
     "wof:country":"IE",
-    "wof:geomhash":"7c0939c070fef5a759f39f38a409865f",
+    "wof:geomhash":"cb7934bcedd516f1a582b02e41ba6363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -8.5025,
     54.99028000000001
 ],
-  "geometry": {"coordinates":[-8.5025,54.99028000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.5025,54.99028],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Ballybrophy"
     },
     "wof:country":"IE",
-    "wof:geomhash":"2cf82471784c3ce205fb347d2d2516fe",
+    "wof:geomhash":"66e047623bdd47fbbe294c8111fb3c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     -7.6025,
     52.89944000000001
 ],
-  "geometry": {"coordinates":[-7.6025,52.89944000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.6025,52.89944],"type":"Point"}
 }

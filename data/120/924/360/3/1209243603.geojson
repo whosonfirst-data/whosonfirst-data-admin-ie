@@ -55,7 +55,7 @@
         "wk:page":"Ardpatrick"
     },
     "wof:country":"IE",
-    "wof:geomhash":"9d2b332082b0cc62b072213584b9f646",
+    "wof:geomhash":"82948792420a102bdf92f139f88e9e12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     -8.52667,
     52.34222000000001
 ],
-  "geometry": {"coordinates":[-8.52667,52.34222000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.52667,52.34222],"type":"Point"}
 }

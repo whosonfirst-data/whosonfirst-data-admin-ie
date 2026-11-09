@@ -42,7 +42,7 @@
         "gn:id":2964163
     },
     "wof:country":"IE",
-    "wof:geomhash":"92ff52b34b7094babf765c158299cd11",
+    "wof:geomhash":"b70489000f5a0a5f16ce492c55428cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     -9.35417,
     54.17639000000001
 ],
-  "geometry": {"coordinates":[-9.35417,54.17639000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.35417,54.17639],"type":"Point"}
 }

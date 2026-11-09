@@ -52,7 +52,7 @@
         "wk:page":"Johnswell"
     },
     "wof:country":"IE",
-    "wof:geomhash":"5b66e253f3a00eded7f333dbef20e570",
+    "wof:geomhash":"6aa08501b36ff842dd87a6dbd9e71f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -7.16833,
     52.70166999999999
 ],
-  "geometry": {"coordinates":[-7.16833,52.70166999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.16833,52.70167],"type":"Point"}
 }

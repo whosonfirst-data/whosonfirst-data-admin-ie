@@ -52,7 +52,7 @@
         "wk:page":"Derrew"
     },
     "wof:country":"IE",
-    "wof:geomhash":"97066187b13de9476c8fe02f40968dd8",
+    "wof:geomhash":"a31f8b1b5f5ed4f82470f250db57dcf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -8.3,
     53.19833000000001
 ],
-  "geometry": {"coordinates":[-8.3,53.19833000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.3,53.19833],"type":"Point"}
 }

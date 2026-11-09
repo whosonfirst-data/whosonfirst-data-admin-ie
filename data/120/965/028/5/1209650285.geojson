@@ -46,7 +46,7 @@
         "wk:page":"Ninemilehouse"
     },
     "wof:country":"IE",
-    "wof:geomhash":"3a783452e94bf2a5cfb81b06e89a4a5d",
+    "wof:geomhash":"e6e1d6432bfb0dd31a294750236a79d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     -7.46028,
     52.46471999999999
 ],
-  "geometry": {"coordinates":[-7.46028,52.46471999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.46028,52.46472],"type":"Point"}
 }

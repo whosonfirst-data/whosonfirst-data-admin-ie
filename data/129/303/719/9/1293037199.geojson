@@ -61,7 +61,7 @@
         "wk:page":"Carrowmore"
     },
     "wof:country":"IE",
-    "wof:geomhash":"29d03d80f68922f8a78d123f6a97303d",
+    "wof:geomhash":"41e4ebb2a549fc4ffca34fea4509798c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     -8.4975,
     54.25333000000001
 ],
-  "geometry": {"coordinates":[-8.4975,54.25333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.4975,54.25333],"type":"Point"}
 }

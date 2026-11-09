@@ -65,7 +65,7 @@
         "wk:page":"Kilconnell"
     },
     "wof:country":"IE",
-    "wof:geomhash":"c776810b09dc51c4aaf602852da737d7",
+    "wof:geomhash":"8bab4539312b75f9ec0b534dd0ad1549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     -8.39222,
     53.33278000000001
 ],
-  "geometry": {"coordinates":[-8.39222,53.33278000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.39222,53.33278],"type":"Point"}
 }

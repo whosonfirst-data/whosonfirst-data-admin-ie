@@ -58,7 +58,7 @@
         "wk:page":"Bruckless"
     },
     "wof:country":"IE",
-    "wof:geomhash":"f1594e93ee3e7e5de1e542789d00adf5",
+    "wof:geomhash":"3c0e8a9700cc1db4ed1ee5d35e960f95",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     -8.38333,
     54.63639000000001
 ],
-  "geometry": {"coordinates":[-8.38333,54.63639000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.38333,54.63639],"type":"Point"}
 }

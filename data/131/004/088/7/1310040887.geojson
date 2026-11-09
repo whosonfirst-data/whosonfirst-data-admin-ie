@@ -43,7 +43,7 @@
         "wk:page":"Ballaghmore"
     },
     "wof:country":"IE",
-    "wof:geomhash":"e936e9da21d27a15df4782ac33c620eb",
+    "wof:geomhash":"dac98a376e613e07876840a803d4990d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     -7.72639,
     52.95916999999999
 ],
-  "geometry": {"coordinates":[-7.72639,52.95916999999999],"type":"Point"}
+  "geometry": {"coordinates":[-7.72639,52.95917],"type":"Point"}
 }

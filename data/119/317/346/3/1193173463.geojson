@@ -62,7 +62,7 @@
         "wk:page":"Attymass"
     },
     "wof:country":"IE",
-    "wof:geomhash":"4f48f478b7a7c3266e27158dcc6189b1",
+    "wof:geomhash":"2d8f16e6aaac05144abe14bd20947777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     -9.08278,
     54.04971999999999
 ],
-  "geometry": {"coordinates":[-9.08278,54.04971999999999],"type":"Point"}
+  "geometry": {"coordinates":[-9.08278,54.04972],"type":"Point"}
 }

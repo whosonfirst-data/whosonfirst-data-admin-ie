@@ -49,7 +49,7 @@
         "wk:page":"Connolly%2C_County_Clare"
     },
     "wof:country":"IE",
-    "wof:geomhash":"450d899af86e87dc4d092e23b138b8f2",
+    "wof:geomhash":"50992684faf61abe804bfe3dc4b51ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     -9.19306,
     52.82944000000001
 ],
-  "geometry": {"coordinates":[-9.19306,52.82944000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.19306,52.82944],"type":"Point"}
 }

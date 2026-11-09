@@ -52,7 +52,7 @@
         "wk:page":"Garrafrauns"
     },
     "wof:country":"IE",
-    "wof:geomhash":"c2112a3247292fab22be7cee7f5fbd8b",
+    "wof:geomhash":"e5df5eab6d48b043eeacf393a1f66fea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     -8.83333,
     53.63333000000001
 ],
-  "geometry": {"coordinates":[-8.83333,53.63333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.83333,53.63333],"type":"Point"}
 }
