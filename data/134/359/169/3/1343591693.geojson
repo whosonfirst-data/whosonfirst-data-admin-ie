@@ -80,7 +80,8 @@
         102191581,
         85633241,
         85684979,
-        1746652155
+        1746652155,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,11 +95,12 @@
             "country_id":85633241,
             "county_id":1746652155,
             "locality_id":1343591693,
+            "macroregion_id":9895094863,
             "region_id":85684979
         }
     ],
     "wof:id":1343591693,
-    "wof:lastmodified":1639037650,
+    "wof:lastmodified":1795802633,
     "wof:name":"Kyle",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

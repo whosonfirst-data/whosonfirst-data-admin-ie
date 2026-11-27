@@ -75,7 +75,8 @@
         102191581,
         85633241,
         85685137,
-        1746652129
+        1746652129,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,6 +94,7 @@
             "country_id":85633241,
             "county_id":1746652129,
             "locality_id":1746658547,
+            "macroregion_id":9895094862,
             "region_id":85685137
         }
     ],
@@ -105,7 +107,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639035973,
+    "wof:lastmodified":1795802633,
     "wof:name":"Coolaney",
     "wof:parent_id":1746652129,
     "wof:placetype":"locality",

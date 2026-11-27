@@ -91,7 +91,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145
+        85685145,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,11 +105,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":1276906245,
+            "macroregion_id":9895094862,
             "region_id":85685145
         }
     ],
     "wof:id":1276906245,
-    "wof:lastmodified":1636502589,
+    "wof:lastmodified":1795802633,
     "wof:name":"Ballina",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

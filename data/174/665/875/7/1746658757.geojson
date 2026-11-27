@@ -62,7 +62,8 @@
         102191581,
         85633241,
         85685037,
-        1746652105
+        1746652105,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,6 +80,7 @@
             "country_id":85633241,
             "county_id":1746652105,
             "locality_id":1746658757,
+            "macroregion_id":9895094864,
             "region_id":85685037
         }
     ],
@@ -91,7 +93,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639042799,
+    "wof:lastmodified":1795802633,
     "wof:name":"Kilkishen",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

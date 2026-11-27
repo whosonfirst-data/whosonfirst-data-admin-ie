@@ -363,7 +363,8 @@
     "statoids:type":"county",
     "wof:belongsto":[
         102191581,
-        85633241
+        85633241,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -393,6 +394,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "macroregion_id":9895094865,
             "region_id":85685151
         }
     ],
@@ -405,9 +407,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695884982,
+    "wof:lastmodified":1795802633,
     "wof:name":"Donegal",
-    "wof:parent_id":85633241,
+    "wof:parent_id":9895094865,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
     "wof:population":161137,

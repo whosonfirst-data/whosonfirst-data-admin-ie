@@ -277,7 +277,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685097
+        85685097,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -293,6 +294,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652111,
+            "macroregion_id":9895094862,
             "region_id":85685097
         }
     ],
@@ -305,7 +307,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695886285,
+    "wof:lastmodified":1795802633,
     "wof:name":"Galway",
     "wof:parent_id":85685097,
     "wof:placetype":"county",

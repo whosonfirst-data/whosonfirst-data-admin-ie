@@ -109,7 +109,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685097
+        85685097,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,11 +130,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":101804945,
+            "macroregion_id":9895094862,
             "region_id":85685097
         }
     ],
     "wof:id":101804945,
-    "wof:lastmodified":1637709060,
+    "wof:lastmodified":1795802633,
     "wof:name":"Bearna",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

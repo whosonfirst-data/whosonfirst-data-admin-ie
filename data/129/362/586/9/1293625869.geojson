@@ -64,7 +64,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685125
+        85685125,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":1293625869,
+            "macroregion_id":9895094865,
             "region_id":85685125
         }
     ],
     "wof:id":1293625869,
-    "wof:lastmodified":1566679687,
+    "wof:lastmodified":1795802633,
     "wof:name":"Kill",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

@@ -47,7 +47,8 @@
         102191581,
         85633241,
         85685117,
-        1746652127
+        1746652127,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,6 +65,7 @@
             "country_id":85633241,
             "county_id":1746652127,
             "locality_id":1746658571,
+            "macroregion_id":9895094865,
             "region_id":85685117
         }
     ],
@@ -76,7 +78,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639035807,
+    "wof:lastmodified":1795802633,
     "wof:name":"Bellanode",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",

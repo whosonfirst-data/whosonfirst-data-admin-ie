@@ -92,7 +92,8 @@
         102191581,
         85633241,
         85685087,
-        1746652093
+        1746652093,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,11 +107,12 @@
             "country_id":85633241,
             "county_id":1746652093,
             "locality_id":1327365255,
+            "macroregion_id":9895094863,
             "region_id":85685087
         }
     ],
     "wof:id":1327365255,
-    "wof:lastmodified":1639034820,
+    "wof:lastmodified":1795802633,
     "wof:name":"Lurgan",
     "wof:parent_id":1746652093,
     "wof:placetype":"locality",

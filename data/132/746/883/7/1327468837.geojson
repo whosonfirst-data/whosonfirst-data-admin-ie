@@ -38,7 +38,8 @@
         102191581,
         85633241,
         85684999,
-        1746652151
+        1746652151,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,11 +54,12 @@
             "country_id":85633241,
             "county_id":1746652151,
             "locality_id":1327468837,
+            "macroregion_id":9895094863,
             "region_id":85684999
         }
     ],
     "wof:id":1327468837,
-    "wof:lastmodified":1639035229,
+    "wof:lastmodified":1795802633,
     "wof:name":"Ballycullen",
     "wof:parent_id":1746652151,
     "wof:placetype":"locality",

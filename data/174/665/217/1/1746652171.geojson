@@ -47,7 +47,8 @@
     "src:centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        85633241
+        85633241,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:country":"",
@@ -57,13 +58,14 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         }
     ],
     "wof:id":1746652171,
-    "wof:lastmodified":1695884290,
+    "wof:lastmodified":1795802633,
     "wof:name":"Dublin",
-    "wof:parent_id":85633241,
+    "wof:parent_id":9895094863,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

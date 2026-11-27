@@ -340,7 +340,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684975
+        85684975,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -365,6 +366,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652143,
+            "macroregion_id":9895094863,
             "region_id":85684975
         }
     ],
@@ -377,7 +379,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695886345,
+    "wof:lastmodified":1795802633,
     "wof:name":"Carlow",
     "wof:parent_id":85684975,
     "wof:placetype":"county",

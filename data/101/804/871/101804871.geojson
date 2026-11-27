@@ -124,7 +124,8 @@
         102191581,
         85633241,
         85685081,
-        1746652099
+        1746652099,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,6 +148,7 @@
             "country_id":85633241,
             "county_id":1746652099,
             "locality_id":101804871,
+            "macroregion_id":9895094863,
             "region_id":85685081
         }
     ],
@@ -154,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040257,
+    "wof:lastmodified":1795802633,
     "wof:name":"Oldcastle",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

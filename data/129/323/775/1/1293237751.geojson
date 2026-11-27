@@ -374,7 +374,8 @@
         102191581,
         85633241,
         85685005,
-        1746652089
+        1746652089,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -388,11 +389,12 @@
             "country_id":85633241,
             "county_id":1746652089,
             "locality_id":1293237751,
+            "macroregion_id":9895094863,
             "region_id":85685005
         }
     ],
     "wof:id":1293237751,
-    "wof:lastmodified":1639040655,
+    "wof:lastmodified":1795802633,
     "wof:name":"Swan",
     "wof:parent_id":1746652089,
     "wof:placetype":"locality",

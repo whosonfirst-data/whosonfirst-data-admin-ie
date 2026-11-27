@@ -161,7 +161,8 @@
         102191581,
         85633241,
         1746652171,
-        1746652091
+        1746652091,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,11 +185,12 @@
             "country_id":85633241,
             "county_id":1746652091,
             "locality_id":101753087,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         }
     ],
     "wof:id":101753087,
-    "wof:lastmodified":1690931823,
+    "wof:lastmodified":1795802633,
     "wof:name":"Swords",
     "wof:parent_id":1746652091,
     "wof:placetype":"locality",

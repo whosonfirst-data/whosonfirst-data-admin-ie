@@ -87,7 +87,8 @@
         102191581,
         85633241,
         85685037,
-        1746652105
+        1746652105,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,6 +106,7 @@
             "country_id":85633241,
             "county_id":1746652105,
             "locality_id":1746658499,
+            "macroregion_id":9895094864,
             "region_id":85685037
         }
     ],
@@ -117,7 +119,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1642551714,
+    "wof:lastmodified":1795802633,
     "wof:name":"Kilfenora",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

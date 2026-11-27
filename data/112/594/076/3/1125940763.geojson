@@ -66,7 +66,8 @@
         102191581,
         85633241,
         85685025,
-        1746652119
+        1746652119,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,11 +87,12 @@
             "country_id":85633241,
             "county_id":1746652119,
             "locality_id":1125940763,
+            "macroregion_id":9895094863,
             "region_id":85685025
         }
     ],
     "wof:id":1125940763,
-    "wof:lastmodified":1639043994,
+    "wof:lastmodified":1795802633,
     "wof:name":"Carragh",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

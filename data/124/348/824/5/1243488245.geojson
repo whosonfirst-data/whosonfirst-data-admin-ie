@@ -57,7 +57,8 @@
         102191581,
         85633241,
         85685091,
-        1746652103
+        1746652103,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "country_id":85633241,
             "county_id":1746652103,
             "locality_id":1243488245,
+            "macroregion_id":9895094863,
             "region_id":85685091
         }
     ],
     "wof:id":1243488245,
-    "wof:lastmodified":1639044743,
+    "wof:lastmodified":1795802633,
     "wof:name":"Killashee",
     "wof:parent_id":1746652103,
     "wof:placetype":"locality",

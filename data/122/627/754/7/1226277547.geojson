@@ -64,7 +64,8 @@
         102191581,
         85633241,
         85685081,
-        1746652099
+        1746652099,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +83,12 @@
             "country_id":85633241,
             "county_id":1746652099,
             "locality_id":1226277547,
+            "macroregion_id":9895094863,
             "region_id":85685081
         }
     ],
     "wof:id":1226277547,
-    "wof:lastmodified":1639036572,
+    "wof:lastmodified":1795802633,
     "wof:name":"Drumconrath",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

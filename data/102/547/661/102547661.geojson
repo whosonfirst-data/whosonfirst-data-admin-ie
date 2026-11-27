@@ -106,7 +106,8 @@
         102191581,
         85633241,
         1746652101,
-        1746652171
+        1746652171,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,12 +125,13 @@
             "country_id":85633241,
             "county_id":1746652101,
             "locality_id":-1,
+            "macroregion_id":9895094863,
             "neighbourhood_id":-1,
             "region_id":1746652171
         }
     ],
     "wof:id":102547661,
-    "wof:lastmodified":1690931639,
+    "wof:lastmodified":1795802633,
     "wof:name":"Casement Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

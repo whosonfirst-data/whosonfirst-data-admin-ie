@@ -94,7 +94,8 @@
         102191581,
         85633241,
         85685041,
-        1746652115
+        1746652115,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,6 +118,7 @@
             "country_id":85633241,
             "county_id":1746652115,
             "locality_id":101872749,
+            "macroregion_id":9895094863,
             "region_id":85685041
         }
     ],
@@ -124,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639037319,
+    "wof:lastmodified":1795802633,
     "wof:name":"Killeigh",
     "wof:parent_id":1746652115,
     "wof:placetype":"locality",

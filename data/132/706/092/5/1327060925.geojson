@@ -47,7 +47,8 @@
         102191581,
         85633241,
         85685113,
-        1746652133
+        1746652133,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,11 +62,12 @@
             "country_id":85633241,
             "county_id":1746652133,
             "locality_id":1327060925,
+            "macroregion_id":9895094862,
             "region_id":85685113
         }
     ],
     "wof:id":1327060925,
-    "wof:lastmodified":1639044307,
+    "wof:lastmodified":1795802633,
     "wof:name":"Drinagh",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

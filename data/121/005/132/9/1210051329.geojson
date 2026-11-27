@@ -38,7 +38,8 @@
         102191581,
         85633241,
         1746652171,
-        1746652091
+        1746652091,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85633241,
             "county_id":1746652091,
             "locality_id":1210051329,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         }
     ],
     "wof:id":1210051329,
-    "wof:lastmodified":1639038953,
+    "wof:lastmodified":1795802633,
     "wof:name":"Balscaddan",
     "wof:parent_id":1746652091,
     "wof:placetype":"locality",

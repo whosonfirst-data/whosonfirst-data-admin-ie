@@ -101,7 +101,8 @@
         102191581,
         85633241,
         85685151,
-        1746652121
+        1746652121,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,11 +124,12 @@
             "country_id":85633241,
             "county_id":1746652121,
             "locality_id":1125837471,
+            "macroregion_id":9895094865,
             "region_id":85685151
         }
     ],
     "wof:id":1125837471,
-    "wof:lastmodified":1642551801,
+    "wof:lastmodified":1795802633,
     "wof:name":"Dunfanaghy",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

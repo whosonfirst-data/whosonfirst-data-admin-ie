@@ -62,7 +62,8 @@
         102191581,
         85633241,
         1159294375,
-        1746652157
+        1746652157,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +79,12 @@
             "country_id":85633241,
             "county_id":1746652157,
             "locality_id":1125884301,
+            "macroregion_id":9895094864,
             "region_id":1159294375
         }
     ],
     "wof:id":1125884301,
-    "wof:lastmodified":1639041696,
+    "wof:lastmodified":1795802633,
     "wof:name":"Ballynahinch",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",

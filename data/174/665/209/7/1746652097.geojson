@@ -317,7 +317,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685075
+        85685075,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -342,6 +343,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652097,
+            "macroregion_id":9895094863,
             "region_id":85685075
         }
     ],
@@ -354,7 +356,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695886277,
+    "wof:lastmodified":1795802633,
     "wof:name":"Westmeath",
     "wof:parent_id":85685075,
     "wof:placetype":"county",

@@ -45,7 +45,8 @@
         102191581,
         85633241,
         85684979,
-        1746652155
+        1746652155,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +60,12 @@
             "country_id":85633241,
             "county_id":1746652155,
             "locality_id":1343989421,
+            "macroregion_id":9895094863,
             "region_id":85684979
         }
     ],
     "wof:id":1343989421,
-    "wof:lastmodified":1639044096,
+    "wof:lastmodified":1795802633,
     "wof:name":"Clogh",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

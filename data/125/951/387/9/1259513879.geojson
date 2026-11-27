@@ -43,7 +43,8 @@
         102191581,
         85633241,
         85685113,
-        1746652133
+        1746652133,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85633241,
             "county_id":1746652133,
             "locality_id":1259513879,
+            "macroregion_id":9895094862,
             "region_id":85685113
         }
     ],
     "wof:id":1259513879,
-    "wof:lastmodified":1639035794,
+    "wof:lastmodified":1795802633,
     "wof:name":"Ballinameen",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

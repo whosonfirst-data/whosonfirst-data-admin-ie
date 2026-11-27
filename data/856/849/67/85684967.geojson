@@ -350,7 +350,8 @@
     "wd:wordcount":2501,
     "wof:belongsto":[
         102191581,
-        85633241
+        85633241,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -381,6 +382,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "macroregion_id":9895094863,
             "region_id":85684967
         }
     ],
@@ -393,9 +395,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695885013,
+    "wof:lastmodified":1795802633,
     "wof:name":"Wexford",
-    "wof:parent_id":85633241,
+    "wof:parent_id":9895094863,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
     "wof:population":145320,

@@ -50,7 +50,8 @@
         102191581,
         85633241,
         85685081,
-        1746652099
+        1746652099,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85633241,
             "county_id":1746652099,
             "locality_id":1243007807,
+            "macroregion_id":9895094863,
             "region_id":85685081
         }
     ],
     "wof:id":1243007807,
-    "wof:lastmodified":1639044535,
+    "wof:lastmodified":1795802633,
     "wof:name":"Churchtown",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685005
+        85685005,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +48,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":1276696867,
+            "macroregion_id":9895094863,
             "region_id":85685005
         }
     ],
     "wof:id":1276696867,
-    "wof:lastmodified":1566679797,
+    "wof:lastmodified":1795802633,
     "wof:name":"Inch Cross Roads",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

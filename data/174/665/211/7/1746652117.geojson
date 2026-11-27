@@ -108,7 +108,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        1746652171
+        1746652171,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,6 +131,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652117,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         }
     ],
@@ -142,7 +144,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695886418,
+    "wof:lastmodified":1795802633,
     "wof:name":"Dublin City",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

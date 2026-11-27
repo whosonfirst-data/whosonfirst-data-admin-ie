@@ -66,7 +66,8 @@
         102191581,
         85633241,
         85684967,
-        1746652137
+        1746652137,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,6 +88,7 @@
             "country_id":85633241,
             "county_id":1746652137,
             "locality_id":1746658831,
+            "macroregion_id":9895094863,
             "region_id":85684967
         }
     ],
@@ -99,7 +101,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639041559,
+    "wof:lastmodified":1795802633,
     "wof:name":"Duncormick",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

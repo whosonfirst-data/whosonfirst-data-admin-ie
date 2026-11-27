@@ -287,7 +287,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -303,6 +304,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652153,
+            "macroregion_id":9895094864,
             "region_id":85684963
         }
     ],
@@ -315,7 +317,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695886362,
+    "wof:lastmodified":1795802633,
     "wof:name":"Cork",
     "wof:parent_id":85684963,
     "wof:placetype":"county",
