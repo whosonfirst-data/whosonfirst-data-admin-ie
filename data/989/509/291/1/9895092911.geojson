@@ -1,0 +1,75 @@
+{
+  "id": 9895092911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.28278,53.30056,-6.28278,53.30056",
+    "geom:latitude":53.30056,
+    "geom:longitude":-6.28278,
+    "gn:population":17333,
+    "iso:country":"IE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2961911: name \"Rathfarnham\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2961911"
+        },
+        {
+            "citation":"GeoNames populated place 2961911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2961911"
+        },
+        {
+            "citation":"GeoNames populated place 2961911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2961911"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1746652101 (South Dublin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241,
+        102191581,
+        1746652101,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961911
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"23770859d5c0335a2b6da409d3d8989c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652101,
+            "locality_id":9895092911,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":9895092911,
+    "wof:lastmodified":1795747242,
+    "wof:name":"Rathfarnham",
+    "wof:parent_id":1746652101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.28278,
+    53.30056,
+    -6.28278,
+    53.30056
+],
+  "geometry": {"coordinates":[-6.28278,53.30056],"type":"Point"}
+}

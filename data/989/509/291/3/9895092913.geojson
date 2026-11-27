@@ -1,0 +1,75 @@
+{
+  "id": 9895092913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.435,51.87444,-8.435,51.87444",
+    "geom:latitude":51.87444,
+    "geom:longitude":-8.435,
+    "gn:population":26883,
+    "iso:country":"IE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2964690: name \"Douglas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2964690"
+        },
+        {
+            "citation":"GeoNames populated place 2964690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2964690"
+        },
+        {
+            "citation":"GeoNames populated place 2964690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2964690"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1746652153 (Cork), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241,
+        85684963,
+        102191581,
+        1746652153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964690
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"71e9ff27096cfb4a23b9ebc86ded5b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652153,
+            "locality_id":9895092913,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":9895092913,
+    "wof:lastmodified":1795747242,
+    "wof:name":"Douglas",
+    "wof:parent_id":1746652153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.435,
+    51.87444,
+    -8.435,
+    51.87444
+],
+  "geometry": {"coordinates":[-8.435,51.87444],"type":"Point"}
+}
