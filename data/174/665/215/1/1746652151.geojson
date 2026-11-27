@@ -328,7 +328,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684999
+        85684999,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -356,6 +357,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652151,
+            "macroregion_id":9895094863,
             "region_id":85684999
         }
     ],
@@ -368,7 +370,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695886432,
+    "wof:lastmodified":1795802633,
     "wof:name":"Wicklow",
     "wof:parent_id":85684999,
     "wof:placetype":"county",

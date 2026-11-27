@@ -48,7 +48,8 @@
         102191581,
         85633241,
         85685117,
-        1746652127
+        1746652127,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +67,12 @@
             "country_id":85633241,
             "county_id":1746652127,
             "locality_id":1343889487,
+            "macroregion_id":9895094865,
             "region_id":85685117
         }
     ],
     "wof:id":1343889487,
-    "wof:lastmodified":1639043507,
+    "wof:lastmodified":1795802633,
     "wof:name":"Scotshouse",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",

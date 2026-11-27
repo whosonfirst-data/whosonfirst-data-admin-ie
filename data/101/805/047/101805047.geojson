@@ -123,7 +123,8 @@
         102191581,
         85633241,
         85685145,
-        1746652125
+        1746652125,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -145,6 +146,7 @@
             "country_id":85633241,
             "county_id":1746652125,
             "locality_id":101805047,
+            "macroregion_id":9895094862,
             "region_id":85685145
         }
     ],
@@ -152,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639045268,
+    "wof:lastmodified":1795802633,
     "wof:name":"Balla",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

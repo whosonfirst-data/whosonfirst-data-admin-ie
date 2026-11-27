@@ -347,7 +347,8 @@
     "unlc:subdivision":"IE-LS",
     "wof:belongsto":[
         102191581,
-        85633241
+        85633241,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -378,6 +379,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "macroregion_id":9895094863,
             "region_id":85685005
         }
     ],
@@ -390,9 +392,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1695885020,
+    "wof:lastmodified":1795802633,
     "wof:name":"Laois",
-    "wof:parent_id":85633241,
+    "wof:parent_id":9895094863,
     "wof:placetype":"region",
     "wof:placetype_local":"county",
     "wof:population":80559,

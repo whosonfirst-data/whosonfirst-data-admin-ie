@@ -106,7 +106,8 @@
         102191581,
         85633241,
         85685125,
-        1746652135
+        1746652135,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,6 +129,7 @@
             "country_id":85633241,
             "county_id":1746652135,
             "locality_id":101804993,
+            "macroregion_id":9895094865,
             "region_id":85685125
         }
     ],
@@ -135,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040729,
+    "wof:lastmodified":1795802633,
     "wof:name":"Bailieborough",
     "wof:parent_id":1746652135,
     "wof:placetype":"locality",

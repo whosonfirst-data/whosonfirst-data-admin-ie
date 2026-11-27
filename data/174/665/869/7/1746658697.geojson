@@ -26,7 +26,8 @@
         102191581,
         85633241,
         85685145,
-        1746652125
+        1746652125,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +42,7 @@
             "country_id":85633241,
             "county_id":1746652125,
             "locality_id":1746658697,
+            "macroregion_id":9895094862,
             "region_id":85685145
         }
     ],
@@ -53,7 +55,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639035936,
+    "wof:lastmodified":1795802633,
     "wof:name":"Charlestown-Bellahy",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

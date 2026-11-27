@@ -99,7 +99,8 @@
         102191581,
         85633241,
         85685151,
-        1746652121
+        1746652121,
+        9895094865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,6 +122,7 @@
             "country_id":85633241,
             "county_id":1746652121,
             "locality_id":101805069,
+            "macroregion_id":9895094865,
             "region_id":85685151
         }
     ],
@@ -128,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690931873,
+    "wof:lastmodified":1795802633,
     "wof:name":"Raphoe",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

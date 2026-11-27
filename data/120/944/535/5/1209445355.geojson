@@ -53,7 +53,8 @@
         102191581,
         85633241,
         85684975,
-        1746652143
+        1746652143,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,11 +69,12 @@
             "country_id":85633241,
             "county_id":1746652143,
             "locality_id":1209445355,
+            "macroregion_id":9895094863,
             "region_id":85684975
         }
     ],
     "wof:id":1209445355,
-    "wof:lastmodified":1639036390,
+    "wof:lastmodified":1795802633,
     "wof:name":"Nurney",
     "wof:parent_id":1746652143,
     "wof:placetype":"locality",

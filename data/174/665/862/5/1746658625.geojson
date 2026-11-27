@@ -84,7 +84,8 @@
         102191581,
         85633241,
         85685133,
-        1746652123
+        1746652123,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,6 +103,7 @@
             "country_id":85633241,
             "county_id":1746652123,
             "locality_id":1746658625,
+            "macroregion_id":9895094862,
             "region_id":85685133
         }
     ],
@@ -114,7 +116,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1642551782,
+    "wof:lastmodified":1795802633,
     "wof:name":"Drumshanbo",
     "wof:parent_id":1746652123,
     "wof:placetype":"locality",

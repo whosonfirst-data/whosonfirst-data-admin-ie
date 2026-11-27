@@ -50,7 +50,8 @@
         102191581,
         85633241,
         85685137,
-        1746652129
+        1746652129,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "country_id":85633241,
             "county_id":1746652129,
             "locality_id":1343696719,
+            "macroregion_id":9895094862,
             "region_id":85685137
         }
     ],
     "wof:id":1343696719,
-    "wof:lastmodified":1639040154,
+    "wof:lastmodified":1795802633,
     "wof:name":"Toorlestraun",
     "wof:parent_id":1746652129,
     "wof:placetype":"locality",

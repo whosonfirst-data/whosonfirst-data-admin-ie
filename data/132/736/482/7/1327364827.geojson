@@ -40,7 +40,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145
+        85685145,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":1327364827,
+            "macroregion_id":9895094862,
             "region_id":85685145
         }
     ],
     "wof:id":1327364827,
-    "wof:lastmodified":1566679336,
+    "wof:lastmodified":1795802633,
     "wof:name":"Faulagh",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

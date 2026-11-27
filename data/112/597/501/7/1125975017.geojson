@@ -134,7 +134,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        1159294375
+        1159294375,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,11 +155,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":1125975017,
+            "macroregion_id":9895094864,
             "region_id":1159294375
         }
     ],
     "wof:id":1125975017,
-    "wof:lastmodified":1690931916,
+    "wof:lastmodified":1795802633,
     "wof:name":"Golden",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

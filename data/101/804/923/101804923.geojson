@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685091
+        85685091,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,11 +121,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":101804923,
+            "macroregion_id":9895094863,
             "region_id":85685091
         }
     ],
     "wof:id":101804923,
-    "wof:lastmodified":1690931838,
+    "wof:lastmodified":1795802633,
     "wof:name":"Granard",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

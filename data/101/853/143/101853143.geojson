@@ -100,7 +100,8 @@
         102191581,
         85633241,
         85684963,
-        1746652153
+        1746652153,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -123,6 +124,7 @@
             "country_id":85633241,
             "county_id":1746652153,
             "locality_id":101853143,
+            "macroregion_id":9895094864,
             "region_id":85684963
         }
     ],
@@ -130,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690931880,
+    "wof:lastmodified":1795802633,
     "wof:name":"Ballygarvan",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

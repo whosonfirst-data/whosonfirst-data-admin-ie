@@ -49,7 +49,8 @@
         102191581,
         85633241,
         85684963,
-        1746652153
+        1746652153,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,11 +68,12 @@
             "country_id":85633241,
             "county_id":1746652153,
             "locality_id":1209746015,
+            "macroregion_id":9895094864,
             "region_id":85684963
         }
     ],
     "wof:id":1209746015,
-    "wof:lastmodified":1639038151,
+    "wof:lastmodified":1795802633,
     "wof:name":"Crossbarry",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

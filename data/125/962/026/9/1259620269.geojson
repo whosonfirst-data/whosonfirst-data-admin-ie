@@ -41,7 +41,8 @@
         102191581,
         85633241,
         85684953,
-        1746652147
+        1746652147,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85633241,
             "county_id":1746652147,
             "locality_id":1259620269,
+            "macroregion_id":9895094864,
             "region_id":85684953
         }
     ],
     "wof:id":1259620269,
-    "wof:lastmodified":1639041789,
+    "wof:lastmodified":1795802633,
     "wof:name":"Woodstown",
     "wof:parent_id":1746652147,
     "wof:placetype":"locality",

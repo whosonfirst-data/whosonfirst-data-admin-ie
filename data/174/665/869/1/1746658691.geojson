@@ -26,7 +26,8 @@
         102191581,
         85633241,
         85685097,
-        1746652111
+        1746652111,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +42,7 @@
             "country_id":85633241,
             "county_id":1746652111,
             "locality_id":1746658691,
+            "macroregion_id":9895094862,
             "region_id":85685097
         }
     ],
@@ -53,7 +55,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1642551822,
+    "wof:lastmodified":1795802633,
     "wof:name":"An Cheathr\u00fa Rua",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

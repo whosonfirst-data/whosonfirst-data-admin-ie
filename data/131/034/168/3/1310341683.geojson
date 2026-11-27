@@ -35,7 +35,8 @@
         102191581,
         85633241,
         85684953,
-        1746652147
+        1746652147,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85633241,
             "county_id":1746652147,
             "locality_id":1310341683,
+            "macroregion_id":9895094864,
             "region_id":85684953
         }
     ],
     "wof:id":1310341683,
-    "wof:lastmodified":1639036074,
+    "wof:lastmodified":1795802633,
     "wof:name":"Poulbautia",
     "wof:parent_id":1746652147,
     "wof:placetype":"locality",

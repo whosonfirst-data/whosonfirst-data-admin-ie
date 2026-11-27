@@ -80,7 +80,8 @@
         102191581,
         85633241,
         85684991,
-        1746652145
+        1746652145,
+        9895094864
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,11 +95,12 @@
             "country_id":85633241,
             "county_id":1746652145,
             "locality_id":1225874963,
+            "macroregion_id":9895094864,
             "region_id":85684991
         }
     ],
     "wof:id":1225874963,
-    "wof:lastmodified":1639036787,
+    "wof:lastmodified":1795802633,
     "wof:name":"Camp",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

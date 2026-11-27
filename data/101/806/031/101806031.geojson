@@ -175,7 +175,8 @@
         102191581,
         85633241,
         85684999,
-        1746652151
+        1746652151,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -197,11 +198,12 @@
             "country_id":85633241,
             "county_id":1746652151,
             "locality_id":101806031,
+            "macroregion_id":9895094863,
             "region_id":85684999
         }
     ],
     "wof:id":101806031,
-    "wof:lastmodified":1690931884,
+    "wof:lastmodified":1795802633,
     "wof:name":"Wicklow",
     "wof:parent_id":1746652151,
     "wof:placetype":"locality",

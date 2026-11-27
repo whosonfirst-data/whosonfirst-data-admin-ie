@@ -106,7 +106,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684979
+        85684979,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,11 +120,12 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":1293236659,
+            "macroregion_id":9895094863,
             "region_id":85684979
         }
     ],
     "wof:id":1293236659,
-    "wof:lastmodified":1566679710,
+    "wof:lastmodified":1795802633,
     "wof:name":"Dungarvan",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

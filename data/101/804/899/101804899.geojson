@@ -119,7 +119,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685081
+        85685081,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -141,6 +142,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "locality_id":101804899,
+            "macroregion_id":9895094863,
             "region_id":85685081
         }
     ],
@@ -148,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709063,
+    "wof:lastmodified":1795802633,
     "wof:name":"Enfield",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191581,
         85633241,
         85685133,
-        1746652123
+        1746652123,
+        9895094862
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85633241,
             "county_id":1746652123,
             "locality_id":1242608611,
+            "macroregion_id":9895094862,
             "region_id":85685133
         }
     ],
     "wof:id":1242608611,
-    "wof:lastmodified":1639038250,
+    "wof:lastmodified":1795802633,
     "wof:name":"Killea",
     "wof:parent_id":1746652123,
     "wof:placetype":"locality",

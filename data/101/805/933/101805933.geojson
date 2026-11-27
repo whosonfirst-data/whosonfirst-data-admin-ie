@@ -127,7 +127,8 @@
         102191581,
         85633241,
         85684967,
-        1746652137
+        1746652137,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,11 +150,12 @@
             "country_id":85633241,
             "county_id":1746652137,
             "locality_id":101805933,
+            "macroregion_id":9895094863,
             "region_id":85684967
         }
     ],
     "wof:id":101805933,
-    "wof:lastmodified":1690931867,
+    "wof:lastmodified":1795802633,
     "wof:name":"Gorey",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

@@ -45,7 +45,8 @@
         102191581,
         85633241,
         1746652171,
-        1746652107
+        1746652107,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85633241,
             "county_id":1746652107,
             "locality_id":1259419585,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         }
     ],
     "wof:id":1259419585,
-    "wof:lastmodified":1639035347,
+    "wof:lastmodified":1795802633,
     "wof:name":"Balally",
     "wof:parent_id":1746652107,
     "wof:placetype":"locality",

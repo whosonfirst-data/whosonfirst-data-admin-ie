@@ -786,7 +786,8 @@
         1746652091,
         1746652117,
         1746652101,
-        1746652107
+        1746652107,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -822,6 +823,7 @@
             "country_id":85633241,
             "county_id":1746652091,
             "locality_id":101751737,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         },
         {
@@ -829,6 +831,7 @@
             "country_id":85633241,
             "county_id":1746652117,
             "locality_id":101751737,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         },
         {
@@ -836,6 +839,7 @@
             "country_id":85633241,
             "county_id":1746652101,
             "locality_id":101751737,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         },
         {
@@ -843,6 +847,7 @@
             "country_id":85633241,
             "county_id":1746652107,
             "locality_id":101751737,
+            "macroregion_id":9895094863,
             "region_id":1746652171
         }
     ],
@@ -850,7 +855,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690931876,
+    "wof:lastmodified":1795802633,
     "wof:megacity":1,
     "wof:name":"Dublin",
     "wof:parent_id":-4,

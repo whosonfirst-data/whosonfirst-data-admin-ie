@@ -46,7 +46,8 @@
         102191581,
         85633241,
         85685081,
-        1746652099
+        1746652099,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85633241,
             "county_id":1746652099,
             "locality_id":1276478999,
+            "macroregion_id":9895094863,
             "region_id":85685081
         }
     ],
     "wof:id":1276478999,
-    "wof:lastmodified":1639034721,
+    "wof:lastmodified":1795802633,
     "wof:name":"Donore",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

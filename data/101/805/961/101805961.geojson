@@ -103,7 +103,8 @@
         102191581,
         85633241,
         85684975,
-        1746652143
+        1746652143,
+        9895094863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,6 +127,7 @@
             "country_id":85633241,
             "county_id":1746652143,
             "locality_id":101805961,
+            "macroregion_id":9895094863,
             "region_id":85684975
         }
     ],
@@ -133,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551830,
+    "wof:lastmodified":1795802633,
     "wof:name":"Tullow",
     "wof:parent_id":1746652143,
     "wof:placetype":"locality",
